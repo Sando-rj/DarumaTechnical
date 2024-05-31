@@ -1,0 +1,12 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.20f1
+CRC: 729763853
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenesbundle
+      Dependencies:
+        Dependency_0: materialbundle
+    Info_1:
+      Name: materialbundle
+      Dependencies: {}

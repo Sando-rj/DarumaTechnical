@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.20f1
+CRC: 3197733180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50a858af937859bf594c704615c9e5e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 41d678904ee9abae4af69c7b00cfdf42
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b7934256a1907ae55b0d24473be002dd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/MaterialBundle/Wood.mat
+- Assets/BundledAssets/MaterialBundle/Button.mat
+- Assets/BundledAssets/MaterialBundle/Contour.mat
+- Assets/BundledAssets/MaterialBundle/End.mat
+Dependencies: []

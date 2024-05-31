@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.20f1
+CRC: 4105929629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02becb84b078cce80913464e80b3c4f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca1aeda4f4e9b0735b3df54870ba246a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 99e45d9aaa9fde025be2b0cb65d82d88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20cd8347bcbbaaa44983acec7216b569, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4409e13ee117ff447947c376a19f4d16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f41f967c6a745f4990f642f62ae63f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e96cb6065543e43c4a752faaa1468eb1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6c0be61502bb534f922ebb746851216, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c055f96101ab3a64f83458638385298c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7a6fcdf25d7a774c86a8b7474c37a33, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/TestRoomA.unity
+- Assets/Scenes/TestRoomB.unity
+- Assets/Scenes/TestRoomC.unity
+Dependencies:
+- C:/Users/rapha/DarumaTechnical/Assets/StreamingAssets/materialbundle

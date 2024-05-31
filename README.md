@@ -1,5 +1,7 @@
 # Daruma Technical 
 
+This project has been developed in Unity 2023.2.20f1.
+
 The project is a barebone example of a First Person escape room in a multiplayer setting, with interaction examples to illustrate the event system and the scene loading system. 
 It has 2 puzzle rooms with 3 interaction examples and a last room to exit the demo. 
 
@@ -10,8 +12,4 @@ It has 2 puzzle rooms with 3 interaction examples and a last room to exit the de
 The demo starts by choosing the player’s networking role as either host (keyboard H) or client (keyboard C). 
 
 ## Interaction keys:
-Movement - ZQSD
-Move Gaze - Mouse
-Interact - E
-Grab - G
-Drop - R
+Movement - ZQSD / Move Gaze - Mouse / Interact - E / Grab - G / Drop - R
